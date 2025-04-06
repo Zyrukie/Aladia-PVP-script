@@ -39,7 +39,7 @@ Environment.Settings = {
 	ThirdPersonSensitivity = 3, -- Boundary: 0.1 - 5
 	TriggerKey = "MouseButton2",
 	Toggle = false,
-	LockPart = "Head", "NewHead" -- Body part to lock on
+	LockPart = "NewHead", "Head" -- Body part to lock on
 }
 
 Environment.FOVSettings = {
